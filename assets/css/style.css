@@ -86,7 +86,7 @@ p {  /* sets the paragraph font size of the webpage to 16px  */
     background-color: #2589bd;
 }
 
-.benefit-body{
+.benefit-body{ /* new class created to consolidate previous classes */
     margin-bottom: 32px;
     color: #ffffff;
 }
