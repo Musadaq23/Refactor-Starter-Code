@@ -1,14 +1,14 @@
-* {
+* {  /* keeps all the padding and margin of border-box to zero  */
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
 body {
-    background-color: #d9dcd6;
-}
+    background-color: #d9dcd6;  /* changes the background colour of the body to #d9dcd6 */
+} 
 
-.header {
+.header {   /* the header of webpage follows the rules of the properties given below  */
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -20,7 +20,7 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+.header h1 .seo {  /* sets the letters seo in the header to have a colour of #d9dcd6 */
     color: #d9dcd6;
 }
 
@@ -46,11 +46,11 @@ a {
     text-decoration: none;
 }
 
-p {
+p {  /* sets the paragraph font size of the webpage to 16px  */
     font-size: 16px;
 }
 
-.hero {
+.hero {  /* sets the position of the background image */
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -75,7 +75,7 @@ p {
     margin-left: 20px;
 }
 
-.benefits {
+.benefits {  /* sets the benefits section of the webpage to have certain properties and values */
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -102,7 +102,7 @@ p {
     max-width: 150px;
 }
 
-.content-body {
+.content-body {  /* sets the content body of the webpage to have certain properties and values */
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -120,7 +120,7 @@ p {
     font-size: 36px;
 }
 
-.footer {
+.footer {  /* sets the footer of the webpage to have certain properties and values */
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
