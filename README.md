@@ -3,7 +3,7 @@
 ## Description
 Refactored existing HTML and CSS code and optimized it for  readability for developers and accesibility for users.
 
-[Link Here to Repository](https://Musadaq23.github.io/Refactor-Starter-Code/index.html)
+[Link Here to Repository](https://musadaq23.github.io/Refactor-Starter-Code/)
 
 ![Top half of Application](./assets/images/webpage-screenshot1.PNG)
 
